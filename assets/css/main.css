@@ -2754,7 +2754,7 @@ input[type="button"]:disabled,
 }
 
 #footer .icons a {
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(255, 0, 0, 0.836);
 }
 
 #footer .copyright {
@@ -3329,4 +3329,20 @@ body.is-touch .poptrox-popup .closer {
 .span2 {
   font-weight: 500;
   color: rgba(255, 0, 0, 0.644);
+}
+.span3 {
+  color: rgb(0, 255, 157);
+}
+
+.span4 {
+  margin-right: 3%;
+  font-style: italic;
+}
+.span5 {
+  font-weight: bold;
+  color: black;
+}
+.span6 {
+  font-weight: bold;
+  color: black;
 }
