@@ -3330,3 +3330,7 @@ body.is-touch .poptrox-popup .closer {
   font-weight: 500;
   color: rgba(255, 0, 0, 0.644);
 }
+
+.imgheight {
+  max-height: 290px;
+}
